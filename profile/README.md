@@ -25,7 +25,7 @@ Serving clients across Leeds, Manchester, London, and throughout the UK.
 
 ## 📞 Get In Touch
 
-- 🌐 Website: [veridextechnologies.com](https://veridextechnologies.com)
+- 🌐 Website: [https://veridextechnologies.com](veridextechnologies.com)
 - 📅 Book Consultation: [cal.com/veridextechnologies](https://cal.com/veridextechnologies)
 - 📧 Email: contact@veridextechnologies.com
 
